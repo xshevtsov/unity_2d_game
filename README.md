@@ -9,8 +9,8 @@ The player's goal is to avoid being caught by the conductor while collecting "pa
 
 
 
-![ezgif com-video-to-gif-converter](https://github.com/xshevtsov/test/assets/79197893/2b3ab57f-f2ae-4118-9086-8b2e8c861a67)
 
+![ezgif com-video-to-gif-converter](https://github.com/xshevtsov/unity_2d_game/assets/79197893/c4e98bad-e576-4cff-9fd1-f58964669e55)
 
 
 ## Play link
